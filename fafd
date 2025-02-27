@@ -1,0 +1,26 @@
+[33mcommit 3cc3cbd5bcec868ef413726739efad4445864c74[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1127514 c8aa2d5
+Author: 박용규 <yoyo5411@naver.com>
+Date:   Thu Feb 27 13:29:05 2025 +0900
+
+    Merge pull request #1 from yonggyu99/feat/member
+    
+    d1
+
+[33mcommit c8aa2d53da998c8e8c7d3e04bef4ece0ff54650a[m[33m ([m[1;31morigin/feat/member[m[33m, [m[1;32mfeat/member[m[33m)[m
+Author: dog <dog@git.com>
+Date:   Thu Feb 27 13:26:45 2025 +0900
+
+    d1
+
+[33mcommit 1127514d628fd5f21dea1aea53b86c98c3298997[m
+Author: cat <cat@git.com>
+Date:   Thu Feb 27 13:23:49 2025 +0900
+
+    c2
+
+[33mcommit b525a4d347debe24f32ab99dc29ae147c1fa45f0[m
+Author: cat <cat@git.com>
+Date:   Thu Feb 27 13:23:28 2025 +0900
+
+    c1
